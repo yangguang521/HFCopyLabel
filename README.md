@@ -6,3 +6,5 @@
 NotificationCenter.default.addObserver(self, selector: #selector(willShow), name: UIMenuController.willShowMenuNotification, object: nil)
 
 NotificationCenter.default.addObserver(self, selector: #selector(willHide), name: UIMenuController.willHideMenuNotification, object: nil)
+
+![image](https://github.com/yangguang521/HFCopyLabel/blob/master/copy.png)
